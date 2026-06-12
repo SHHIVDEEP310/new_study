@@ -1,0 +1,2 @@
+python 3.10.11
+streamlit 1.58.0
