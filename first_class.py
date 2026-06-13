@@ -18,3 +18,5 @@ st.write(" choose your Favorite Phone!")
 first_with = st.selectbox(" your favorite Andriod :", ["Vivo" , "Mi ", "Redmi","sumsung", "Motrola", "NOkia "])
 # now call  that variable 
 st.write(f"You Choose {first_with}, And very cromatic with did!")
+st.success(" Your idea has been brewed!")
+
